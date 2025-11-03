@@ -2,6 +2,10 @@
 
 Welcome to CompleteIt! A website that helps you manage your gaming sessions in a way for you to complete the games you want to play in a timely manner. No more sitting on your metaphorical shelf gathering metaphorical dust!
 
+### The pitch
+
+Are you tired of having too many games and having completed none of them? Are you wanting to beat Yaga Dingo 1 before Yaga Dingo 2 comes out in February? Well do we have the product for you!
+
 ## Features
 
 ### Time to complete!
@@ -45,3 +49,13 @@ We have future plans to add support for an app, that will automatically connect 
 ### Fun Extras!
 
 Just extra little things that I think would be nice, like a way automatically rank games based on different criteria, such as your own ratings, your friend's ratings, or average ratings. It can also rank games based on difficulty, time to complete, and more!
+
+## Other
+
+### Technologies
+
+I am planning on using SupaBase because that is what ChatGPT recommended for me to use, because it can do a lot while still staying in a free tier. This will use PostGres. I will use React for my front end and I am told that SupaBase can even host the front-end on the same website. 
+
+### Money-Making Techniques
+
+Probably have some ads on the website. I myself am not a big fan of ads that cover an entire web page, so I would keep ads to a minimum, maybe just one or two per page. But there would also be two tiers you can pay for, a $1 a month for no ads and small premium features, and a $5 tier with more premium features and just to support us.
