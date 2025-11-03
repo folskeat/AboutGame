@@ -4,4 +4,4 @@
 | :------- | :------: | -------: |
 | November 3 | Writing out pitch, project design, etc | 2 |
 | ... | ... | ... |
-| ... | ... | ... |
+| **Total** | **Hours** | 2 |
