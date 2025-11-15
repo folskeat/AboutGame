@@ -6,5 +6,7 @@
 | November 7 | Creating a basis for front end | 3 |
 | November 8 | Hosting the front end on a website | 2 |
 | November 10 | Making front end look nicer | 2 |
+| November 14 | Setting up and initializing database (users) | 3 |
+| November 15 | Logging in and logging out | 1 |
 | ... | ... | ... |
-| **Total** | **Hours** | 9 |
+| **Total** | **Hours** | 13 |
