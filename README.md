@@ -2,6 +2,8 @@
 
 Welcome to CompleteIt! A website that helps you manage your gaming sessions in a way for you to complete the games you want to play in a timely manner. No more sitting on your metaphorical shelf gathering metaphorical dust!
 
+Link to site: complete-it-omega.vercel.app
+
 ### The pitch
 
 Are you tired of having too many games and having completed none of them? Are you wanting to beat Yaga Dingo 1 before Yaga Dingo 2 comes out in February? Well do we have the product for you!
