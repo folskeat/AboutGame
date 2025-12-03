@@ -10,6 +10,8 @@
 | November 15 | Logging in and logging out | 1 |
 | November 20 | Allowing site to add new data | 1.5 |
 | November 21 | Allowing site to add new data | 1.5 |
-| November 24 | Can now add games to database | 3.5 |
+| November 24 | Can now add games to database | 4 |
+| December 1 | Setting up a Supabase edge function | 2 |
+| December 3 | Connecting to an API attempt | 1 |
 | ... | ... | ... |
-| **Total** | **Hours** | 19.5 |
+| **Total** | **Hours** | 23 |
