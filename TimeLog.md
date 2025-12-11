@@ -13,5 +13,8 @@
 | November 24 | Can now add games to database | 4 |
 | December 1 | Setting up a Supabase edge function | 2 |
 | December 3 | Connecting to an API attempt | 1 |
+| December 8 | Regretting the API | 2 |
+| December 9 | Refactoring to set up for adding checkpoints | 2.5 |
+| December 10 | Can now update an item in the table | 3.5 |
 | ... | ... | ... |
-| **Total** | **Hours** | 23 |
+| **Total** | **Hours** | 31 |
